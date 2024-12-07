@@ -1,6 +1,7 @@
 # Learning-Platform
 Welcome to the Learning Platform! This project is a web-based platform for online learning, created using HTML and CSS.
-**Installation**
+                                                                                       
+                                                                                       **Installation**
 To get a local copy up and running follow these simple steps:
 
 1) **Clone the repository:**
